@@ -11,5 +11,5 @@ Nomads Travel is a prototype project for the SAAS travel platform. It has a mini
 - jQuery v3.5
 - xZoom v1
 
-## 
+## Note
 *This is not for commercial use.
